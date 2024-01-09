@@ -28,5 +28,26 @@ This project is an advanced face recognition system designed for a student atten
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+
+## Usage
+1. Navigate to the project directory:
+
+    ```bash
+    cd your-repository
+
+2. Run the main application:
+
+    ```bash
+    python main.py
+
+3. Access the application at http://localhost:5000 in your web browser.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
