@@ -2,6 +2,11 @@
 
 This project is an advanced face recognition system designed for managing student attendance in educational institutions. The system utilizes **Python 3.8.5** along with the **OpenCV library** for face detection and recognition. It offers a range of features for managing student data, capturing attendance through face recognition, and generating attendance reports.
 
+## 📷 Demo
+Here's a brief demonstration of the face recognition system in action:
+
+<img align="center" src="FRAS Video.gif" alt="GIF Title" width="1000" height="500">
+
 ## 💻 Requirements
 
 - **Python 3.8.5**
@@ -56,10 +61,6 @@ This project is an advanced face recognition system designed for managing studen
 
 3. Access the application at http://localhost:5000 in your web browser.
 
-## 📷 Demo
-Here's a brief demonstration of the face recognition system in action:
-
-<img align="center" src="FRAS Video.gif" alt="GIF Title" width="1000" height="500">
 
 ## ❤️ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
